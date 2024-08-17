@@ -1,7 +1,7 @@
 # BADBOI-v3
    ## Hi there 👋
 
-<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
+<h1 align="center">ꪶBADBOI-v3 BUGꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/7e30e2a345f986b958e83.jpg" />
 </p>
