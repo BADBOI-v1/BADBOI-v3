@@ -1,6 +1,5 @@
-Now deploy.
-    <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/BADBOI-v1/BADBOI' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a># BADBOI-v3
+
+    # BADBOI-v3
    ## Hi there 👋
 
 <h1 align="center">ꪶBADBOI-v3 BUGꫂ<br></h1>
