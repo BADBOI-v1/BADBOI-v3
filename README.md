@@ -1,3 +1,6 @@
+1. Deploy.
+    <br>
+    <a href='https://github.com/BADBOI-v1/Queen-BHAD-DC-MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 # BADBOI-v3
    ## Hi there 👋
 
