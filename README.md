@@ -1,5 +1,4 @@
 
-    # BADBOI-v3
    ## Hi there 👋
 
 <h1 align="center">ꪶBADBOI-v3 BUGꫂ<br></h1>
