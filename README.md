@@ -58,6 +58,17 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
+
+DEPLOY TO PANEL
+
+Fork the repo
+Edit then Download your forked repo zip
+🖥 Go to panel and upload your Sc.
+Delete the cred file from the session then start console
+Extract or move it to a directory (container).
+⌨ Use the following code to move into a container: "../"
+Then go to the console and press Start.
+Note: I recommend using starter + or higher for a fast bot
   
 ### 4. <a 
 #### DEPLOY TO RENDER
