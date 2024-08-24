@@ -23,6 +23,10 @@ BADBOI-v3 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2BADBOI-v1%2FBLACK BADBOI-v1BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/BADBOI-v1/BADBOI-v3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 
+-------
+## ```YOUTUBE CHANNEL FOR TUTORIALS```
+
+ - [ Click ](https://youtube.com/@BADBOI-k2i?si=1_Ae2h9Kl9IbAo7E)
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit or render. 
 
