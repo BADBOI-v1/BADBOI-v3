@@ -33,7 +33,7 @@ BADBOI-v3 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 ### 1. <a href="https://github.com/BADBOI-v1/BADBOI-v3/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork BADBOI-v2" width="70"></a>
 ## `Generate Pair Code For Session`
  
-[`Badboi-v3 Pairing Using Render`](https://badboi.onrender.com/)
+[`Badboi-v3 Pairing Using Render`](https://creds-json-paring-generator-by-badboi-2.onrender.com)
 
 [`Badboi-v3 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
 
